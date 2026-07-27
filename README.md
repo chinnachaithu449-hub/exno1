@@ -29,6 +29,14 @@ STEP 6: Use zscore of to remove outliers
             <img width="1041" height="297" alt="image" src="https://github.com/user-attachments/assets/9ab56af4-dfdc-44a6-992d-58bb36c1fe69" />
             <img width="567" height="567" alt="image" src="https://github.com/user-attachments/assets/ce5434c3-b6b3-4d1d-b096-228d18594bd7" />
             <img width="1027" height="397" alt="image" src="https://github.com/user-attachments/assets/17883389-c930-4035-80e4-36738a08e09e" />
+            <img width="923" height="42" alt="image" src="https://github.com/user-attachments/assets/d2759a7a-3e04-4938-a4d4-39eaf00e5cf6" />
+            <img width="1010" height="850" alt="image" src="https://github.com/user-attachments/assets/7d5c5c46-6cef-4b36-b768-86fe7e4cc97a" />
+            <img width="942" height="50" alt="image" src="https://github.com/user-attachments/assets/2827ce24-6c41-465f-ac5d-7b3578dac720" />
+            <img width="956" height="823" alt="image" src="https://github.com/user-attachments/assets/046e9d77-43c5-4b99-a1b5-a44bb0933663" />
+
+
+
+
 
 
 
