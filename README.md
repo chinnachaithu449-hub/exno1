@@ -86,4 +86,4 @@ STEP 6: Use zscore of to remove outliers
 
 
 # Result
-          <<include your Result here>>
+               Thus we have cleaned the data and removed the outliers by detection using IQR and Z-score method
