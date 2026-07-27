@@ -45,6 +45,26 @@ STEP 6: Use zscore of to remove outliers
             <img width="1002" height="747" alt="image" src="https://github.com/user-attachments/assets/f75eef4e-1fd7-4abb-a224-3ee4faa3b92f" />
             <img width="813" height="40" alt="image" src="https://github.com/user-attachments/assets/1fafff0b-9375-4849-b869-2c6208640cf1" />
             <img width="1032" height="783" alt="image" src="https://github.com/user-attachments/assets/bec7a2b7-cdbb-4020-acac-8ee16c0bf155" />
+            <img width="767" height="603" alt="image" src="https://github.com/user-attachments/assets/92cb49ae-8357-4808-b777-fe816dd65cd9" />
+            <img width="358" height="231" alt="image" src="https://github.com/user-attachments/assets/7fbf3553-5136-4320-baa5-46a91f24fe37" />
+            <img width="916" height="805" alt="image" src="https://github.com/user-attachments/assets/1c7bf6ed-b605-47cd-b153-3dae30efec16" />
+            <img width="1010" height="756" alt="image" src="https://github.com/user-attachments/assets/16caf9f1-9ccd-40f8-98c6-27166b56bfb2" />
+            <img width="997" height="770" alt="image" src="https://github.com/user-attachments/assets/6926f41b-16ff-4eb0-8475-37618e01ea93" />
+            <img width="506" height="171" alt="image" src="https://github.com/user-attachments/assets/34faf715-8fa0-4253-86e3-354c920672a2" />
+            <img width="780" height="75" alt="image" src="https://github.com/user-attachments/assets/a255b77e-8f83-4480-8c6e-692cf78b098e" />
+            <img width="622" height="272" alt="image" src="https://github.com/user-attachments/assets/85f2b15b-75fb-4ef4-8cd2-b3c16f45a7cd" />
+            <img width="857" height="817" alt="image" src="https://github.com/user-attachments/assets/b73637c9-cbba-4a56-833e-8d9a50bcc521" />
+            <img width="746" height="537" alt="image" src="https://github.com/user-attachments/assets/3fdb96ae-0834-4735-a464-63ee401240fe" />
+
+
+
+
+
+
+
+
+
+
             
 
 
